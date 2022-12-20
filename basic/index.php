@@ -28,7 +28,7 @@
 		<?php } ?>
 		
 			<div id="logo">
-			<h1>	<a href="/basic/index.php">Soldesk</a> </h1>
+			<h1>	<a href="/basic/index.php">Project Group2</a> </h1>
 			</div>
 		
 			<nav><ul>
